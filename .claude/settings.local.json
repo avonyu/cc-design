@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ui.shadcn.com)",
+      "WebSearch",
+      "Skill(shadcn-ui)",
+      "Bash(npx shadcn@latest:*)",
+      "Bash(rm:*)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "mcp__Framelink_Figma_MCP__get_figma_data",
+      "Bash(python:*)",
+      "Bash(bun dev:*)",
+      "Bash(bun run:*)",
+      "mcp__Framelink_Figma_MCP__download_figma_images"
+    ]
+  }
+}
