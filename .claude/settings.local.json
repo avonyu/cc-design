@@ -12,7 +12,11 @@
       "Bash(python:*)",
       "Bash(bun dev:*)",
       "Bash(bun run:*)",
-      "mcp__Framelink_Figma_MCP__download_figma_images"
+      "mcp__Framelink_Figma_MCP__download_figma_images",
+      "mcp__Pixso_MCP__getAllComponents",
+      "mcp__Pixso_MCP__getNodeDSL",
+      "mcp__Pixso_MCP__getCode",
+      "Bash(python3:*)"
     ]
   }
 }
