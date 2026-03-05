@@ -4,6 +4,7 @@ import { Clients } from "./Clients";
 import { AboutUs } from "./AboutUs";
 import { OurValues } from "./OurValues";
 import { OurInterests } from "./OurInterests";
+import { Projects } from "./Projects";
 import { Footer } from "./Footer";
 
 export function LandingPage() {
@@ -16,6 +17,7 @@ export function LandingPage() {
         <AboutUs />
         <OurInterests />
         <OurValues />
+        <Projects />
       </main>
       <Footer />
     </div>

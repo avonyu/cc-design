@@ -16,7 +16,13 @@
       "mcp__Pixso_MCP__getAllComponents",
       "mcp__Pixso_MCP__getNodeDSL",
       "mcp__Pixso_MCP__getCode",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "WebFetch(domain:pixso.cn)",
+      "mcp__Pixso_MCP__getImage",
+      "mcp__Pixso_MCP__getExportImage",
+      "Bash(jq:*)",
+      "Bash(ls:*)",
+      "mcp__ide__executeCode"
     ]
   }
 }
