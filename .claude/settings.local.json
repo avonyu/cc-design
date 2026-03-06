@@ -21,8 +21,12 @@
       "mcp__Pixso_MCP__getImage",
       "mcp__Pixso_MCP__getExportImage",
       "Bash(jq:*)",
+<<<<<<< HEAD
       "Bash(ls:*)",
       "mcp__ide__executeCode"
+=======
+      "Bash(ls:*)"
+>>>>>>> 5f6086a20c74fb437484b2ce462fccccf0ae8051
     ]
   }
 }
